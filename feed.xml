@@ -3,7 +3,7 @@
     <title>Parascolart et Cie</title>
     <link href="https://cok666n.github.io/feed.xml" rel="self" />
     <link href="https://cok666n.github.io" />
-    <updated>2018-10-17T15:58:41-04:00</updated>
+    <updated>2018-10-17T21:42:56-04:00</updated>
     <author>
         <name>Joey</name>
     </author>
@@ -20,7 +20,7 @@
         <updated>2018-10-17T15:26:51-04:00</updated>
             <summary>
                 <![CDATA[
-                    Parascolaire- Artiste, son oeuvre et sa technique (Élève du préscolaire) Phase d’ouverte Exploration à l’aquarelle -Proportion du visage -Réalisation d’un&hellip;
+                    &hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -63,7 +63,7 @@
         <updated>2018-10-17T15:26:51-04:00</updated>
             <summary>
                 <![CDATA[
-                    &nbsp; Exploration à la gouache &nbsp; Aquarelle et encre Techniques mixtes&nbsp;Artisanat Aquarelle et résine Peinture sur textile &nbsp; &nbsp;
+                    &hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -148,7 +148,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://cok666n.github.io/media/posts/6/tricot.jpg" alt="" />
-                    Récupère moi !Créer à l'aide de d'objet du quotidien et leur donner une nouvelle vie.Découvrir différents métiers artisanaux et traditionnels.Ateliers: &nbsp; **Session&hellip;
+                    &hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -194,7 +194,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://cok666n.github.io/media/posts/5/Tous.jpg" alt="" />
-                     Arts plastiques Un artiste, une oeuvre et sa techniqueL'artiste en toi!Sculpture (L'univers du 3D)Art dramatiqueThéâtre d'ombreTroupe de théâtreImprovisationThéâtre de marionnettesUn artiste,&hellip;
+                    &hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -305,29 +305,6 @@
         </content>
     </entry>
     <entry>
-        <title>Accueil</title>
-        <author>
-            <name>Eve Arsenault</name>
-        </author>
-        <link href="https://cok666n.github.io/accueil.html"/>
-        <id>https://cok666n.github.io/accueil.html</id>
-
-        <updated>2018-10-17T15:26:51-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://cok666n.github.io/media/posts/2/pinceaux.jpg" alt="" />
-                    Des ateliers d'arts collectifs qui fourmillent de partage, d’éblouissement et de découverte.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://cok666n.github.io/media/posts/2/pinceaux.jpg" alt="" />
-                <p style="text-align: center;">Des ateliers d'arts collectifs qui fourmillent de partage, d’éblouissement et de découverte.</p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>À Propos</title>
         <author>
             <name>Eve Arsenault</name>
@@ -339,7 +316,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://cok666n.github.io/media/posts/3/MG_5147.jpg" alt="" />
-                    Chers parents, directeur, responsable du service de garde et coordonnateur de loisir, Depuis plusieurs années, j’ai occupé des emplois qui&hellip;
+                    &hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -372,7 +349,7 @@ Créatrice de Parascol'ART & cie</p>
         <updated>2018-10-17T15:26:51-04:00</updated>
             <summary>
                 <![CDATA[
-                    Contactez-moi pour tous vos projets! Eve Arsenault info@parascolart.com 581-307-7598
+                    &hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -381,28 +358,6 @@ Créatrice de Parascol'ART & cie</p>
 <p><strong>Eve Arsenault</strong><br />
 info@parascolart.com<br />
 581-307-7598</p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>En construction</title>
-        <author>
-            <name>Eve Arsenault</name>
-        </author>
-        <link href="https://cok666n.github.io/en-construction.html"/>
-        <id>https://cok666n.github.io/en-construction.html</id>
-
-        <updated>2018-10-17T15:26:51-04:00</updated>
-            <summary>
-                <![CDATA[
-                    Le site web de Parascolart est présentement en construction. Contactez-nous pour plus de détails au sujet des services offerts.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Le site web de Parascolart est présentement en construction.</p>
-<p>Contactez-nous pour plus de détails au sujet des services offerts.</p>
 
             ]]>
         </content>
